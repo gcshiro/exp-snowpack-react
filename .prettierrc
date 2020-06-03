@@ -1,5 +1,8 @@
 {
   "parser": "typescript",
   "singleQuote": true,
-  "trailingComma": "all"
+  "trailingComma": "es5",
+  "printWidth": 80,
+  "bracketSpacing": false,
+  "useTabs": false
 }
